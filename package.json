@@ -1,8 +1,8 @@
 {
-  "name": "electron-hello-world",
-  "productName": "electron-hello-world",
+  "name": "hello-world",
+  "productName": "Hello World",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "This is a Hello World app built with Electron .",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
